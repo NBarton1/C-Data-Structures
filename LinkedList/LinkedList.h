@@ -7,7 +7,7 @@
 
 #include <stddef.h>
 
-#define END (-1)
+#define END (-1lu)
 
 typedef struct LinkedList_s *LinkedList;
 

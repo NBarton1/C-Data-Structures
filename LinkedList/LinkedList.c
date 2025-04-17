@@ -7,7 +7,7 @@
 #include <stddef.h>
 #include <stdlib.h>
 
-#include "util.h"
+#include "../util/util.h"
 
 typedef struct Node_s {
 	void *data;
